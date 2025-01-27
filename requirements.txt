@@ -13,4 +13,12 @@ python-dotenv
 scikit-learn
 tqdm
 typer
+langchain
+chromadb
+openai
+tiktoken
+pypdf2
+gdown
+python-box==6.0.2
+
 -e .

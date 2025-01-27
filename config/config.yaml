@@ -1,0 +1,11 @@
+data:
+  google_drive_url: https://drive.google.com/file/d/1-78n_dwA-irYcCUT6qSskkBO_UEJcngB/view?usp=sharing
+  download_path: data/external/data.zip # downloaded folder
+  extract_to: data/raw # extracted folder
+  interim_path: data/interim # image processed folder
+  processed_path: data/processed # train and test folder
+  train_path: data/processed/train
+  
+  train_size: 0.7
+  test_size: 0.2
+  val_size: 0.1

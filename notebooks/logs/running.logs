@@ -1,0 +1,16 @@
+2025-01-27 13:23:33,264 - root - ERROR - FileNotFoundError: config/config.yaml
+2025-01-27 13:59:08,090 - root - ERROR - FileNotFoundError: config/config.yaml
+2025-01-27 13:59:21,994 - root - INFO - Yaml read successfully from /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+2025-01-27 13:59:21,996 - root - ERROR - Exception occured while reading yaml file from                         location: /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+ name 'ConfigBox' is not defined
+2025-01-27 14:00:48,327 - root - INFO - Yaml read successfully from /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+2025-01-27 14:00:48,328 - root - ERROR - Exception occured while reading yaml file from                         location: /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+ name 'ConfigBox' is not defined
+2025-01-27 14:00:48,330 - root - ERROR - FileNotFoundError: params.yaml
+2025-01-27 14:04:40,982 - root - INFO - Yaml read successfully from /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+2025-01-27 14:04:40,984 - root - ERROR - Exception occured while reading yaml file from                         location: /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+ name 'ConfigBox' is not defined
+2025-01-27 14:05:26,847 - root - INFO - Yaml read successfully from /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+2025-01-27 14:05:53,959 - root - INFO - Yaml read successfully from /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+2025-01-27 14:06:12,816 - root - INFO - Yaml read successfully from /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
+2025-01-27 14:10:30,456 - root - INFO - Yaml read successfully from /Users/goldyrana/mess/deep_learning/projects/Semantic-Search-Engine-for-Academic-Papers/config/config.yaml
