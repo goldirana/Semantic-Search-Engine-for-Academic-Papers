@@ -5,7 +5,7 @@ data:
   interim_path: data/interim # image processed folder
   processed_path: data/processed # train and test folder
   train_path: data/processed/train
-  
+  raw_file_path: data/raw/arxiv-metadata-oai-snapshot.json
   train_size: 0.7
   test_size: 0.2
   val_size: 0.1

@@ -20,5 +20,5 @@ tiktoken
 pypdf2
 gdown
 python-box==6.0.2
-
+langchain_community
 -e .
